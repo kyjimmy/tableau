@@ -12,9 +12,11 @@ This project presents real world examples of Tableau dashboards to
     .
     ├── README.md                                          <- The top-level README
     ├── assessment_reports
+    │   ├── clinical_assessment_summary_clinician.pdf      <- Clinical assessment summary to be shared with clinicians
+    │   ├── cognitive_assessment_report_clinician.pdf      <- Detailed cognitive assessment report to be shared with clinicians
     │   ├── cognitive_assessment_summary_clinician.pdf     <- Cognitive assessment summary to be shared with clinicians
-    │   ├── cognitive_assessment_summary_participant.pdf   <- Cognitive assessment summary to be shared with participants
-    │   └── cognitive_assessment_report_clinician.pdf      <- Detailed cognitive assessment report to be shared with clinicians
+    │   └── cognitive_assessment_summary_participant.pdf   <- Cognitive assessment summary to be shared with participants
+    │
     ├── assessment_timing_tracker
-    │   ├── assessment_timing_tracker_study.pdf            <- Conduct descriptive statistics on the assessment time of all study components/measures of all study participants
-    │   └── assessment_timing_tracker_participant.pdf      <- Track the assessment date and time of a participant
+    │   ├── assessment_timing_tracker_participant.pdf      <- Track the assessment date and time of a participant
+    │   └── assessment_timing_tracker_study.pdf            <- Conduct descriptive statistics on the assessment time of all study components/measures of all study participants
